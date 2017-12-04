@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "D:\\android\\zxing_lib\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\check_on.png",
+        "source": "D:\\android\\zxing_lib\\src\\main\\res\\mipmap-xxxhdpi\\check_on.png"
+    },
+    {
+        "merged": "D:\\android\\zxing_lib\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\icon_gengo.png",
+        "source": "D:\\android\\zxing_lib\\src\\main\\res\\mipmap-xxxhdpi\\icon_gengo.png"
+    },
+    {
+        "merged": "D:\\android\\zxing_lib\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\frame.png",
+        "source": "D:\\android\\zxing_lib\\src\\main\\res\\mipmap-xxxhdpi\\frame.png"
+    },
+    {
+        "merged": "D:\\android\\zxing_lib\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\btn_code.png",
+        "source": "D:\\android\\zxing_lib\\src\\main\\res\\mipmap-xxxhdpi\\btn_code.png"
+    },
+    {
+        "merged": "D:\\android\\zxing_lib\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_launcher_round.png",
+        "source": "D:\\android\\zxing_lib\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\android\\zxing_lib\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\icon_menu.png",
+        "source": "D:\\android\\zxing_lib\\src\\main\\res\\mipmap-xxxhdpi\\icon_menu.png"
+    },
+    {
+        "merged": "D:\\android\\zxing_lib\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\img.png",
+        "source": "D:\\android\\zxing_lib\\src\\main\\res\\mipmap-xxxhdpi\\img.png"
+    },
+    {
+        "merged": "D:\\android\\zxing_lib\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\radio_off.png",
+        "source": "D:\\android\\zxing_lib\\src\\main\\res\\mipmap-xxxhdpi\\radio_off.png"
+    },
+    {
+        "merged": "D:\\android\\zxing_lib\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\radio_on.png",
+        "source": "D:\\android\\zxing_lib\\src\\main\\res\\mipmap-xxxhdpi\\radio_on.png"
+    },
+    {
+        "merged": "D:\\android\\zxing_lib\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\arrow_right.png",
+        "source": "D:\\android\\zxing_lib\\src\\main\\res\\mipmap-xxxhdpi\\arrow_right.png"
+    },
+    {
+        "merged": "D:\\android\\zxing_lib\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\btn_close.png",
+        "source": "D:\\android\\zxing_lib\\src\\main\\res\\mipmap-xxxhdpi\\btn_close.png"
+    },
+    {
+        "merged": "D:\\android\\zxing_lib\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\btn_shutter.png",
+        "source": "D:\\android\\zxing_lib\\src\\main\\res\\mipmap-xxxhdpi\\btn_shutter.png"
+    },
+    {
+        "merged": "D:\\android\\zxing_lib\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\check_off.png",
+        "source": "D:\\android\\zxing_lib\\src\\main\\res\\mipmap-xxxhdpi\\check_off.png"
+    },
+    {
+        "merged": "D:\\android\\zxing_lib\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_launcher.png",
+        "source": "D:\\android\\zxing_lib\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\android\\zxing_lib\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\logo.png",
+        "source": "D:\\android\\zxing_lib\\src\\main\\res\\mipmap-xxxhdpi\\logo.png"
+    },
+    {
+        "merged": "D:\\android\\zxing_lib\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\btn_back.png",
+        "source": "D:\\android\\zxing_lib\\src\\main\\res\\mipmap-xxxhdpi\\btn_back.png"
+    }
+]
